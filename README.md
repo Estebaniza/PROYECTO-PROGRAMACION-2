@@ -2,7 +2,7 @@
 
 ### Sistema  de Monitoreo en Tiempo Real para la Gestión, Disponibilidad y Seguridad de Espacios de Estacionamiento en universidades.
 
-https://www.shutterstock.com/es/image-vector/automatic-rising-barrier-system-gate-security-2266367425
+[![Only parking](https://www.shutterstock.com/image-vector/automatic-rising-barrier-system-gate-260nw-2266367425.jpg "Only parking")](https://www.shutterstock.com/image-vector/automatic-rising-barrier-system-gate-260nw-2266367425.jpg "Only parking")
 
 # Justificacion.
 
