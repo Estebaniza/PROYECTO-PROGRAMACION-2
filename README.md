@@ -28,7 +28,7 @@
 # 1. Introduccion
 -
 
-# 2. Objetivo del Proyecto
+# 2. Objetivo Principal
 - Aumentar la seguridad del parqueadero de motos, carros, bicicletas, patinetas electricas, etc de las universidades mediante un programa que escanee el documento de identidad del usuario al ingreso y salida, incluyendo el conteo en tiempo real de los espacios disponibles en el estacionamiento.
 
 # 3. Objetivos Especificos
