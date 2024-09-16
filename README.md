@@ -18,6 +18,15 @@
  - 9.Conclusion
  - 10.Referencias
 
+# Objetivo General
+Aumentar la seguridad del parqueadero de motos, carros, bicicletas, patinetas electricas, etc. de la universidad Instituto Tecnico central sede tintal mediante un programa que escanee el documento de identidad del usuario al ingreso y salida 
+
+# Obetivos especificos 
+- implementar un programa que facilite a los guardas de seguridad dar ingreso al parqueadero y reduzca las filas al ingresar al parqueadero
+- aumentar la seguridad de los vehiculos dentro del parqueadero para evitar robos
+- mediante el programa realizar el conteo de los vehiculos que ingresan
+- mediante una base de datos almacenar la información de los usuarios
+- al escannear el documento aparezcan los datos del usuario y del vehiculo para mayor seguridad 
 
 # Justificacion.
 
