@@ -64,6 +64,7 @@ La universidad no cuenta con un registro o control de los vehiculos que ingresan
 - Thanks to https://www.shutterstock.com/es/images we include some pictures of the theme.
 - Markdown Extras by https://pandao.github.io/editor.md/en.html.
 - Thanks to [ChatGPT by OpenAI](https://www.openai.com/chatgpt) for assistance with writing and content optimization.
+- Documento de otro proyecto que tenemos en la universidad y se relaciona el tema.
 
 
 
