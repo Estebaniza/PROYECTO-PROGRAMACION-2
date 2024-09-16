@@ -1,5 +1,4 @@
-# Only Parking 
-[![Logo](https://www.shutterstock.com/image-vector/vector-sets-parking-lots-letter-260nw-2275662011.jpg "Logo")](https://www.shutterstock.com/image-vector/vector-sets-parking-lots-letter-260nw-2275662011.jpg "Logo")
+# Only Parking [![Logo](https://www.shutterstock.com/image-vector/vector-sets-parking-lots-letter-260nw-2275662011.jpg "Logo")](https://www.shutterstock.com/image-vector/vector-sets-parking-lots-letter-260nw-2275662011.jpg "Logo")
 
  ###  Sistema  de Monitoreo en Tiempo Real para la Gestión, Disponibilidad y Seguridad de Espacios de Estacionamiento en universidades
 
