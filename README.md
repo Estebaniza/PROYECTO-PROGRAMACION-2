@@ -13,14 +13,14 @@
 
 ## - [Guía para la Realización del Proyecto](#guía-para-la-realización-del-proyecto)
  - [1. Introduccion](#-Introduccion)
- - 2.Objetivo Principal
- - 3.Objetivos Especificos
- - 4.Pregunta Problematica
- - 5.Planteamiento
- - 6.Justificacion
- - 7.Requerimientos de la solucion al problema
- - 8.Conclusion
- - 9.Referencias
+ - [2. Objetivo Principal](#-Objetivo-Principal)
+ - [3. Objetivos Especificos](#-Objetivos-Especificos)
+ - [4. Pregunta Problematica](#-Pregunta-Problematica)
+ - [5. Planteamiento](#-Planteamiento)
+ - [6. Justificacion](#-Justificacion)
+ - [7. Requerimientos de la solucion al problema](#-Requerimientos-de-la-solucion-al-problema)
+ - [8 .Conclusion](#-Conclusion)
+ - [9. Referencias](#-Referencias)
 
 <!-- /code_chunk_output -->
 
@@ -28,7 +28,7 @@
 # 1. Introduccion
 -
 
-# 2. Objetivo General
+# 2. Objetivo del Proyecto
 - Aumentar la seguridad del parqueadero de motos, carros, bicicletas, patinetas electricas, etc de las universidades mediante un programa que escanee el documento de identidad del usuario al ingreso y salida, incluyendo el conteo en tiempo real de los espacios disponibles en el estacionamiento.
 
 # 3. Objetivos Especificos
