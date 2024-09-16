@@ -51,10 +51,6 @@
 
   Además, el conteo en tiempo real de los espacios disponibles, respaldado por la base de datos del sistema, optimiza la gestión del estacionamiento al proporcionar información actualizada y precisa sobre la disponibilidad de espacios. Esta funcionalidad reduce significativamente el tiempo que los usuarios deben invertir en buscar un lugar para estacionar, aliviando la congestión en el campus y mejorando el flujo de tráfico. La combinación de un sistema de escaneo de identidad y el conteo en tiempo real contribuye a una experiencia más eficiente y segura para estudiantes, profesores y personal, asegurando una administración más eficaz de los recursos de estacionamiento y fomentando un entorno universitario más ordenado y protegido.
 
-
-
-
-
 # 7. Requerimientos de la solucion al problema
 -
 
