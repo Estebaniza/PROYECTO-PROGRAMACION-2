@@ -1,6 +1,6 @@
 # Only Parking.
 
- ###     Sistema  de Monitoreo en Tiempo Real para la Gestión, Disponibilidad y Seguridad de Espacios de Estacionamiento en universidades.
+ ###  Sistema  de Monitoreo en Tiempo Real para la Gestión, Disponibilidad y Seguridad de Espacios de Estacionamiento en universidades.
 
 [![Only parking](https://www.shutterstock.com/image-vector/automatic-rising-barrier-system-gate-260nw-2266367425.jpg "Only parking")](https://www.shutterstock.com/image-vector/automatic-rising-barrier-system-gate-260nw-2266367425.jpg "Only parking")
 
@@ -25,7 +25,7 @@
 -
 
 # Objetivo General.
-- Aumentar la seguridad del parqueadero de motos, carros, bicicletas, patinetas electricas, etc de la universidad Instituto Tecnico central sede tintal mediante un programa que escanee el documento de identidad del usuario al ingreso y salida, incluyendo el conteo en tiempo real de los espacios disponibles en el estacionamiento.
+- Aumentar la seguridad del parqueadero de motos, carros, bicicletas, patinetas electricas, etc de las universidades mediante un programa que escanee el documento de identidad del usuario al ingreso y salida, incluyendo el conteo en tiempo real de los espacios disponibles en el estacionamiento.
 
 # Objetivos especificos.
 - Implementar un programa que facilite a los guardas de seguridad dar ingreso,salida y que reduzca las filas del parqueadero.
