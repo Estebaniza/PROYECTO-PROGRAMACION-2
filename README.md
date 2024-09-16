@@ -22,7 +22,7 @@
 -
 
 # Imagenes.
--
+[![Seguridad](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.tangocolombia.com.co%2Fsolucion%2Fgrandes-empresas%2Fautomatizacion-parqueaderos%2F&psig=AOvVaw2KqWDxOKrTh4P6OjeyazAD&ust=1726547835661000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMiT0aTSxogDFQAAAAAdAAAAABAE "Seguridad")](http://https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.tangocolombia.com.co%2Fsolucion%2Fgrandes-empresas%2Fautomatizacion-parqueaderos%2F&psig=AOvVaw2KqWDxOKrTh4P6OjeyazAD&ust=1726547835661000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMiT0aTSxogDFQAAAAAdAAAAABAE "Seguridad")
 
 # Objetivo General.
 - Aumentar la seguridad del parqueadero de motos, carros, bicicletas, patinetas electricas, etc de las universidades mediante un programa que escanee el documento de identidad del usuario al ingreso y salida, incluyendo el conteo en tiempo real de los espacios disponibles en el estacionamiento.
