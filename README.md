@@ -65,4 +65,4 @@
 
 
 
-![Java](https://img.shields.io/badge/Java-100%25-ff5733?style=for-the-badge)  ![github](https://img.shields.io/badge/github-100%25-ff5733?style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-100%25-ff5733?style=for-the-badge)  ![github](https://img.shields.io/badge/github-100%25-ff5733?style=for-the-badge) ![markdown](https://img.shields.io/badge/markdown-100%25-ff5733?style=for-the-badge)
