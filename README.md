@@ -34,21 +34,25 @@
 
 [![PARQUEDEROS](https://st4.depositphotos.com/23611030/29463/v/450/depositphotos_294632308-stock-illustration-collection-parking-thin-line-icons.jpg "PARQUEDEROS")](https://st4.depositphotos.com/23611030/29463/v/450/depositphotos_294632308-stock-illustration-collection-parking-thin-line-icons.jpg "PARQUEDEROS")
 
-# Planteamiento
+# 4. Pregunta Problematica
+- ¿Cómo influye el software de Only Parking en la reducción del tiempo que los usuarios dedican a buscar y esperar por un lugar de estacionamiento disponible, y qué medidas de seguridad se implementan para proteger tanto la información personal de los usuarios como la seguridad de los vehículos estacionados?
+
+# 5. Planteamiento
 -
 
-# Justificacion
+# 6. Justificacion
 -
 
-# Requerimientos de la solucion al problema
+# 7. Requerimientos de la solucion al problema
 -
 
-# Conclusion
+# 8. Conclusion
 - El Sistema de Monitoreo en Tiempo Real para la Gestión, Disponibilidad y Seguridad de Espacios de Estacionamiento en universidades representa una solución integral que optimiza el uso del espacio de estacionamiento dentro de las instituciones educativas. Al proporcionar datos actualizados y precisos sobre la disponibilidad de los espacios, el sistema facilita una asignación más eficiente de los mismos, reduciendo el tiempo de búsqueda y mejorando la experiencia de estudiantes, profesores y personal. Además, al incorporar mecanismos de seguridad avanzados, el sistema contribuye a la protección de los vehículos y a la prevención de incidentes. En conjunto, este enfoque no solo mejora la gestión y accesibilidad del estacionamiento, sino que también refuerza la seguridad en el campus, promoviendo un entorno universitario más organizado y seguro.
 
-# Referencias
+# 9. Referencias
 - Markdown Extras by https://pandao.github.io/editor.md/en.html.
-- 
+- Thanks to [ChatGPT by OpenAI](https://www.openai.com/chatgpt) for assistance with writing and content optimization.
+
 
 
 ![Java](https://img.shields.io/badge/Java-100%25-ff5733?style=for-the-badge)  ![github](https://img.shields.io/badge/github-100%25-ff5733?style=for-the-badge)
