@@ -49,7 +49,9 @@
 sin embargo, debido al aumento de manera exponencial en las diferentes facultades. La universidad presenta un problema que resalta a simple vista, y es la gestión al momento del ingreso y salida de los vehículos a el estacionamiento, en especial en la jornada nocturna que presenta alta demanda, a pesar de que cuenta con vigilantes el trabajo es manual lo que hace que el registro y control de los diferentes medios de transporte que aparcan diariamente en la facultad no sea eficiente. Esto hace que los Como tampoco la regulación del cupo máximo de los estacionamientos estimados para todos los usuarios que asisten a los diferentes programas, generando deficiencia en la seguridad, permitiendo robos dentro de las mismas instalaciones.
 
 Los cambios semestre a semestre dan muestra del incremento y de las dificulatades que presenta las instalaciones como por ejemplo:
-- 
+- Ineficiencia en el control.
+- Falta de control en los cupos del parqueadero
+- problemas de seguridad.
 
 # 6. Justificacion
 - La implementación de un sistema que escanee el documento de identidad del usuario para controlar el acceso al estacionamiento en universidades es fundamental para mejorar la seguridad y eficiencia en la gestión de los espacios de estacionamiento. Este sistema ofrece un control riguroso sobre quién puede acceder a las áreas de estacionamiento, utilizando la tecnología de escaneo para verificar y registrar cada entrada y salida. La integración de una base de datos robusta permite almacenar y gestionar de manera segura la información de identidad de los usuarios, así como los registros de acceso, lo cual facilita la vigilancia y el monitoreo continuo. Este enfoque no solo reduce la posibilidad de accesos no autorizados y potenciales actos vandálicos, sino que también permite al personal de seguridad y administración auditar y analizar los datos para mejorar la gestión y respuesta ante incidentes.
