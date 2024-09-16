@@ -12,7 +12,7 @@
 <!-- code_chunk_output -->
 
 ## - [Guía para la Realización del Proyecto](#guía-para-la-realización-del-proyecto)
- - [1.Introduccion](#-Introduccion)
+ - [1. Introduccion](#-Introduccion)
  - 2.Objetivo Principal
  - 3.Objetivos Especificos
  - 4.Pregunta Problematica
