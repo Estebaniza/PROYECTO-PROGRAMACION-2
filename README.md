@@ -4,7 +4,7 @@
 
 [![Only parking](https://www.shutterstock.com/image-vector/automatic-rising-barrier-system-gate-260nw-2266367425.jpg "Only parking")](https://www.shutterstock.com/image-vector/automatic-rising-barrier-system-gate-260nw-2266367425.jpg "Only parking")
 
-## Guía para la Realización del Proyecto
+## - [Guía para la Realización del Proyecto](#guía-para-la-realización-del-proyecto)
 - Titulo del proyecto
  - 1.Introduccion
  - 2.Objetivo Principal
@@ -16,13 +16,13 @@
  - 8.Conclusion
  - 9.Referencias
 
-# Introduccion
+# 1. Introduccion
 -
 
-# Objetivo General
+# 2. Objetivo General
 - Aumentar la seguridad del parqueadero de motos, carros, bicicletas, patinetas electricas, etc de las universidades mediante un programa que escanee el documento de identidad del usuario al ingreso y salida, incluyendo el conteo en tiempo real de los espacios disponibles en el estacionamiento.
 
-# Objetivos Especificos
+# 3. Objetivos Especificos
 - Implementar un programa que facilite a los guardas de seguridad dar ingreso,salida y que reduzca las filas del parqueadero.
 - Aumentar la seguridad de los vehiculos dentro del parqueadero para evitar robos.
 - Mediante el programa realizar el conteo de los vehiculos que ingresan y salen del parqueadero.
