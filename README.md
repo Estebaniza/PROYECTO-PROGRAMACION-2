@@ -11,16 +11,16 @@
 <!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
 <!-- code_chunk_output -->
 
-## - [Guía para la Realización del Proyecto](#guía-para-la-realización-del-proyecto)
- - [1. Introduccion](#-Introduccion)
- - [2. Objetivo Principal](#-Objetivo-Principal)
- - [3. Objetivos Especificos](#-Objetivos-Especificos)
- - [4. Pregunta Problematica](#-Pregunta-Problematica)
- - [5. Planteamiento](#-Planteamiento)
- - [6. Justificacion](#-Justificacion)
- - [7. Requerimientos de la solucion al problema](#-Requerimientos-de-la-solucion-al-problema)
- - [8 .Conclusion](#-Conclusion)
- - [9. Referencias](#-Referencias)
+ - [Guía para la Realización del Proyecto](#guía-para-la-realización-del-proyecto)
+  - [1. Introduccion](#-Introduccion)
+  - [2. Objetivo Principal](#-Objetivo-Principal)
+  - [3. Objetivos Especificos](#-Objetivos-Especificos)
+  - [4. Pregunta Problematica](#-Pregunta-Problematica)
+  - [5. Planteamiento](#-Planteamiento)
+  - [6. Justificacion](#-Justificacion)
+  - [7. Requerimientos de la solucion al problema](#-Requerimientos-de-la-solucion-al-problema)
+  - [8 .Conclusion](#-Conclusion)
+  - [9. Referencias](#-Referencias)
 
 <!-- /code_chunk_output -->
 
