@@ -22,7 +22,7 @@
 -
 
 # Imagenes.
-[![Seguridad](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.tangocolombia.com.co%2Fsolucion%2Fgrandes-empresas%2Fautomatizacion-parqueaderos%2F&psig=AOvVaw2KqWDxOKrTh4P6OjeyazAD&ust=1726547835661000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMiT0aTSxogDFQAAAAAdAAAAABAE "Seguridad")](http://https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.tangocolombia.com.co%2Fsolucion%2Fgrandes-empresas%2Fautomatizacion-parqueaderos%2F&psig=AOvVaw2KqWDxOKrTh4P6OjeyazAD&ust=1726547835661000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMiT0aTSxogDFQAAAAAdAAAAABAE "Seguridad")
+
 
 # Objetivo General.
 - Aumentar la seguridad del parqueadero de motos, carros, bicicletas, patinetas electricas, etc de las universidades mediante un programa que escanee el documento de identidad del usuario al ingreso y salida, incluyendo el conteo en tiempo real de los espacios disponibles en el estacionamiento.
@@ -33,6 +33,8 @@
 - Mediante el programa realizar el conteo de los vehiculos que ingresan y salen del parqueadero.
 - Mediante una base de datos almacenar la información de los usuarios.
 - Al escannear el documento aparezcan los datos del usuario y del vehiculo para mayor seguridad.
+
+[![PARQUEDEROS](https://st4.depositphotos.com/23611030/29463/v/450/depositphotos_294632308-stock-illustration-collection-parking-thin-line-icons.jpg "PARQUEDEROS")](https://st4.depositphotos.com/23611030/29463/v/450/depositphotos_294632308-stock-illustration-collection-parking-thin-line-icons.jpg "PARQUEDEROS")
 
 # Planteamiento.
 -
