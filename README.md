@@ -93,7 +93,7 @@ El proyecto tiene como objetivo gestionar un sistema de estacionamiento, permiti
 - `placa`: La placa del vehículo. (Ej. ABC123, BNG26G, XHL82D).
 - `tipo_vehiculo`: El tipo de vehículo (Ej. Carro, Moto, Bicicleta).
 - `estado`: Estado del vehículo (Ej. Estacionado, En Movimiento).
-- `color`: El color del vehículo. (Ej. Verde, Rojo y Gris)
+- `color`: El color del vehículo. (Ej. Verde, Rojo y Gris).
 - `espacio`: Número del espacio de estacionamiento.
 
 # Codigo API OnlyParking
