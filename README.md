@@ -143,7 +143,8 @@ public class almacenar {
 
         scanner.close();  // Cierra el scanner una vez que el programa ha terminado.
     }
-}```
+}
+```
 
-Imagen
-![image](https://github.com/user-attachments/assets/0d08a47e-2881-44f9-8282-12fdd1cfd5a6)
+![image](https://github.com/user-attachments/assets/7ba21fc3-d8ef-47ca-8697-3c2efb2c250e)
+
