@@ -96,4 +96,56 @@ El sistema permite manejar los siguientes campos para cada vehículo:
 - `color`: El color del vehículo.
 - `espacio`: Número del espacio de estacionamiento.
 
+# Proyecto: OnlyParking Fase 2
+
+Este proyecto permite consultar placas de vehículos (motos y carros) en parqueaderos, utilizando una API externa que genera placas aleatorias junto con colores para cada vehículo. A continuación se explican los dos componentes principales del proyecto.
+
+## Dependencias utilizadas
+  - **org.json** para manejar los datos en formato JSON.
+- Conexión a la API externa (servidor local).
+
+---
+
+## Código 1: `almacenar.java`
+
+Este código interactúa con el usuario a través de la consola, capturando su input y realizando una consulta a la API para obtener placas de vehículos.
+
+```java
+package com.onlyparking;
+
+import java.util.Scanner;
+
+public class almacenar {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);  // Se crea un objeto Scanner para leer la entrada del usuario.
+        String input;
+
+        System.out.println("¡Hola! ¿Deseas ver las placas de los vehículos? ");  // Se muestra un mensaje inicial.
+
+        while (true) {  // Bucle infinito para seguir solicitando entradas hasta que el usuario decida salir.
+            input = scanner.nextLine();  // Lee lo que el usuario ingresa.
+
+            // Si el usuario escribe "salir", el programa termina.
+            if (input.equalsIgnoreCase("salir")) {
+                System.out.println("¡Hasta luego!");  // Mensaje de despedida.
+                break;  // Rompe el bucle, lo que hace que el programa termine.
+            } else {
+                System.out.println("Buscando placas...");  // Muestra un mensaje informando que se está buscando información.
+
+                // Llama a la API pasando un mensaje que solicita información sobre las placas de vehículos y colores.
+                String respuestaAPI = api.placas(
+                        "Inventa números de placas de moto y carro en Colombia, que sean mínimo 5, también dame un color diferente para cada vehículo: "
+                                + input);
+
+                // Muestra la respuesta que devuelve la API.
+                System.out.println("Respuesta de la API: " + respuestaAPI);
+            }
+
+            // Pide al usuario que escriba 'salir' para terminar o continúe interactuando.
+            System.out.println("\n(escribe 'salir' para terminar)");
+        }
+
+        scanner.close();  // Cierra el scanner una vez que el programa ha terminado.
+    }
+}```
 
