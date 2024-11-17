@@ -112,7 +112,7 @@ Una solicitud **POST** es un tipo de solicitud HTTP que se utiliza para enviar d
 
 En el caso de una API que proporciona modelos de IA como LMStudio, generalmente usaremos **POST** para enviar un **prompt** (un mensaje o una solicitud de tarea) al modelo y obtener una respuesta. El método **POST** es ideal para enviar grandes cantidades de datos, como **JSON**, que contienen el prompt, parámetros de configuración, o incluso archivos.
 
-## ¿Qué es un **Prompt**?
+### ¿Qué es un **Prompt**?
 
 Un **prompt** es simplemente una instrucción o pregunta que le damos a un modelo de inteligencia artificial (IA) para que realice una tarea o genere una respuesta. En el caso de modelos como los de LMStudio o GPT, un prompt es el texto o la información que se envía al modelo para obtener un resultado.
 
@@ -241,3 +241,19 @@ public class api {
 }
 ```
 ![image](https://github.com/user-attachments/assets/c9c43267-5ec2-4e36-8f17-06096b0a4ab4)
+
+# Creación del Base de Datos Only_Parking en Visual Studio Code.
+
+En este proyecto, desarrollamos un sistema de monitoreo de estacionamiento llamado **Only_Parking** utilizando **Java** y **MySQL**. El sistema permite gestionar los vehículos estacionados en un estacionamiento, permitiendo insertar nuevos vehículos, consultar los vehículos actuales y gestionar los espacios de estacionamiento. A continuación se describe cómo creamos la base de datos  en **Visual Studio Code (VSC)**, las clases que definimos, y sus respectivos códigos.
+
+### Clases de la Base de Datos.
+- `CreateTable.java`
+- `DatabaseConnection.java`
+- `InsertValue.java`
+- `Main.java`
+- `ParkingSpace.java`
+- `SelectTable.java`
+
+Cada clase tiene una responsabilidad específica en el sistema.
+![image](https://github.com/user-attachments/assets/60b510cd-8fd3-42a9-b151-33f4f2cf9b23)
+
