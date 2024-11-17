@@ -20,8 +20,8 @@
    - [6. Justificacion](#6-Justificacion)
    - [7. Requerimientos de la solucion al problema](#7-Requerimientos-de-la-solucion-al-problema)
    - [8 .Conclusion](#8-Conclusion)
-   - [ Fase 2 del Proyecto](# Fase 2 del Proyecto)
-   - [9. Referencias](#9-Referencias)
+   - [9 .Fase 2 del proyecto](#9-Fase-2-del-proyecto)
+   - [10. Referencias](#10-Referencias)
 
 <!-- /code_chunk_output -->
 
