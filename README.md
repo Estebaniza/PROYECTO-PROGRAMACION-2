@@ -242,9 +242,9 @@ public class api {
 ```
 ![image](https://github.com/user-attachments/assets/c9c43267-5ec2-4e36-8f17-06096b0a4ab4)
 
-# Creación del Base de Datos Only_Parking en Visual Studio Code.
+## Creación de Base de Datos Only_Parking en Visual Studio Code.
 
-En este proyecto, desarrollamos un sistema de monitoreo de estacionamiento llamado **Only_Parking** utilizando **Java** y **MySQL**. El sistema permite gestionar los vehículos estacionados en un estacionamiento, permitiendo insertar nuevos vehículos, consultar los vehículos actuales y gestionar los espacios de estacionamiento. A continuación se describe cómo creamos la base de datos  en **Visual Studio Code (VSC)**, las clases que definimos, y sus respectivos códigos.
+En este proyecto, hemos creado un sistema de monitoreo de estacionamiento llamado OnlyParking utilizando Java y MySQL. Primero, creamos una base de datos llamada only_parking y dentro de ella una tabla parking_spaces, que almacena la información de los vehículos estacionados, como el id, placa, tipo_vehiculo, estado, color y espacio de estacionamiento. Usamos Java para desarrollar varias clases que gestionan la interacción con la base de datos: CreateTable para crear la tabla, DatabaseConnection para establecer la conexión con MySQL, InsertValue para insertar nuevos vehículos, SelectTable para mostrar los vehículos actuales, y Main para ofrecer un menú interactivo al usuario. Cada clase tiene una función específica que facilita la inserción y consulta de los datos, mientras que la clase ParkingSpace sirve como un modelo de datos para representar cada vehículo. La base de datos se conecta a través de JDBC, y la aplicación maneja errores y asegura que la base de datos se mantenga consistente.
 
 ### Clases de la Base de Datos.
 - `CreateTable.java`
@@ -255,5 +255,6 @@ En este proyecto, desarrollamos un sistema de monitoreo de estacionamiento llama
 - `SelectTable.java`
 
 Cada clase tiene una responsabilidad específica en el sistema.
+
 ![image](https://github.com/user-attachments/assets/60b510cd-8fd3-42a9-b151-33f4f2cf9b23)
 
