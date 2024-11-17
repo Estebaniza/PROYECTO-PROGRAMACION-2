@@ -100,6 +100,19 @@ El proyecto tiene como objetivo gestionar un sistema de estacionamiento, permiti
 
 Este proyecto permite consultar placas de vehículos (motos y carros) en parqueaderos, utilizando una API externa que genera placas aleatorias junto con colores para cada vehículo. A continuación se explican los dos componentes principales del proyecto.
 
+En este proceso, hemos utilizado el método POST para interactuar con la API de LMStudio (o un servicio similar). Primero, generamos un prompt y lo enviamos al servidor en formato JSON. Luego, recibimos la respuesta procesada y la mostramos al usuario. La conexión entre VSCode y LMStudio se hace a través de una serie de solicitudes HTTP, configuradas adecuadamente para trabajar con las API de LMStudio.
+
+Este tipo de integración permite desarrollar aplicaciones que aprovechan el poder de los modelos de IA alojados en servidores remotos, sin necesidad de tener el modelo corriendo localmente en tu máquina, lo que hace que la implementación sea más eficiente y escalable.
+
+## Utilización de POST para Interactuar con la API de LMStudio
+
+Una solicitud **POST** es un tipo de solicitud HTTP que se utiliza para enviar datos al servidor. A diferencia de la solicitud **GET** (que se usa generalmente para obtener datos), el método **POST** es utilizado cuando queremos enviar información para que el servidor realice alguna acción, como guardar datos o realizar cálculos.
+
+### ¿Por qué utilizar POST?
+
+En el caso de una API que proporciona modelos de IA como LMStudio, generalmente usaremos **POST** para enviar un **prompt** (un mensaje o una solicitud de tarea) al modelo y obtener una respuesta. El método **POST** es ideal para enviar grandes cantidades de datos, como **JSON**, que contienen el prompt, parámetros de configuración, o incluso archivos.
+
+
 ---
 
 ## Código 1: `almacenar.java`
@@ -145,6 +158,77 @@ public class almacenar {
     }
 }
 ```
+![image](https://github.com/user-attachments/assets/9ac3fc7a-faa3-4bd9-a5e4-3a207dc86e17)
 
-![image](https://github.com/user-attachments/assets/7ba21fc3-d8ef-47ca-8697-3c2efb2c250e)
 
+## Código 2: `api.java`
+
+```java
+package com.onlyparking;
+
+import java.io.BufferedReader;
+import java.io.InputStreamReader;
+import java.io.OutputStream;
+import java.net.HttpURLConnection;
+import java.net.URL;
+import org.json.JSONArray;
+import org.json.JSONObject;
+
+public class api {
+    public static String placas(String mensaje) {
+        String response = "";  // Variable para almacenar la respuesta de la API.
+        try {
+            // Se especifica la URL del servidor al que se realizará la solicitud.
+            URL url = new URL("http://192.168.80.40:1234/v1/chat/completions");
+            HttpURLConnection conn = (HttpURLConnection) url.openConnection();  // Se abre la conexión HTTP.
+            conn.setRequestMethod("POST");  // Se establece el método HTTP POST.
+            conn.setRequestProperty("Authorization", "Bearer ");  // Se agrega un token de autorización (vacío en este caso).
+            conn.setRequestProperty("Content-Type", "application/json");  // Se define el tipo de contenido como JSON.
+            conn.setDoOutput(true);  // Permite enviar datos en la solicitud.
+
+            // Se crea el cuerpo de la solicitud en formato JSON.
+            String jsonInputString = """
+                    {
+                        "model": "llama-3.2-1b-instruct",
+                        "messages": [
+                            {"role": "system", "content": "Eres una persona que sabe de placas de motos y carros en Colombia, también sabes de colores de vehículos. Recomiéndame según lo que te pida." },
+                            {"role": "user", "content": "%s" }
+                        ]
+                    }
+                    """.formatted(mensaje);
+
+            // Se envía la solicitud a la API utilizando un OutputStream.
+            try (OutputStream os = conn.getOutputStream()) {
+                byte[] input = jsonInputString.getBytes("utf-8");  // Se convierte el string JSON a bytes.
+                os.write(input, 0, input.length);  // Se escribe la solicitud en la conexión.
+            }
+
+            // Se lee la respuesta de la API utilizando un BufferedReader.
+            try (BufferedReader br = new BufferedReader(new InputStreamReader(conn.getInputStream(), "utf-8"))) {
+                StringBuilder responseBuilder = new StringBuilder();
+                String responseLine;
+                while ((responseLine = br.readLine()) != null) {  // Se lee cada línea de la respuesta.
+                    responseBuilder.append(responseLine.trim());  // Se acumula la respuesta.
+                }
+                response = responseBuilder.toString();  // Se guarda la respuesta completa.
+            }
+
+            // Se procesa la respuesta JSON recibida.
+            JSONObject jsonResponse = new JSONObject(response);  // Se convierte la respuesta a un objeto JSON.
+            JSONArray choices = jsonResponse.getJSONArray("choices");  // Se extrae el array de "choices".
+            JSONObject choice = choices.getJSONObject(0);  // Se toma el primer objeto de "choices".
+            JSONObject message = choice.getJSONObject("message");  // Se obtiene el mensaje de la respuesta.
+
+            String contenido = message.optString("content", "No disponible");  // Se obtiene el contenido del mensaje, con un valor por defecto.
+
+            return "\n Respuesta : " + contenido;  // Se devuelve la respuesta procesada.
+
+        } catch (Exception e) {
+            e.printStackTrace();  // Si ocurre algún error, se imprime la traza del error.
+        }
+
+        return response;  // Si ocurre algún error, se devuelve la respuesta vacía.
+    }
+}
+```
+![image](https://github.com/user-attachments/assets/c9c43267-5ec2-4e36-8f17-06096b0a4ab4)
