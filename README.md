@@ -259,7 +259,50 @@ Cada clase tiene una responsabilidad específica en el sistema.
 
 ![image](https://github.com/user-attachments/assets/60b510cd-8fd3-42a9-b151-33f4f2cf9b23)
 
+![image](https://github.com/user-attachments/assets/648cecec-e84c-481f-b9f8-f9a78151cc2c)
+
 # Interfaz (JAVAFX).
 JavaFX es una biblioteca, también se le llama framework gráfico, de Java que permite desarrollar aplicaciones de interfaz gráfica de usuario (GUI) modernas y visualmente atractivas. Se utiliza para crear aplicaciones de escritorio y proporciona un conjunto de herramientas para construir interfaces visuales interactivas. JavaFX es parte de Java desde JDK 8 y es la alternativa recomendada a la biblioteca Swing.
-![image](https://github.com/user-attachments/assets/648cecec-e84c-481f-b9f8-f9a78151cc2c)
+
+# IMAGEN 1
+
+![image](https://github.com/user-attachments/assets/c7bfa972-8289-4804-9942-d919595928f6)
+
+## Análisis de la Imagen:
+
+Aunque la interfaz no se muestra en su totalidad, es posible inferir varios elementos clave y sus funcionalidades a partir de la imagen proporcionada:
+
+1. **Placa de vehículo:**  
+   La imagen principal muestra la matrícula "COZ 92E" acompañada de la palabra "COLOMBIA", lo que sugiere que la aplicación está orientada al registro y monitoreo de vehículos.
+
+2. **Información temporal:**  
+   Se indica la hora exacta de ingreso del vehículo (13:14:48.866660300) y se señala que la hora de salida aún está pendiente. Esto revela que el sistema realiza un seguimiento preciso de la duración de la estancia de cada vehículo, permitiendo gestionar el tiempo de ocupación del espacio de forma eficiente.
+
+3. **Placa registrada:**  
+   La visualización de la matrícula "GIT70G" como vehículo registrado confirma que la aplicación permite el registro y seguimiento de vehículos de forma detallada, lo que facilita la gestión de entradas y salidas dentro del sistema.
+
+4. **Botón "Regresar":**  
+   La presencia de este botón sugiere que la aplicación tiene una interfaz estructurada en múltiples pantallas, lo que permite a los usuarios navegar entre diferentes secciones. Al pulsar el botón, el usuario regresaría a una pantalla previa, facilitando la navegación y mejorando la experiencia de uso.
+
+# IMAGEN 2
+
+![image](https://github.com/user-attachments/assets/0669fa90-e45e-4e1a-abe6-55b0828faa18)
+
+## Análisis de la Imagen:
+
+Podemos identificar los siguientes elementos clave de la interfaz de usuario, que parece estar desarrollada con **JavaFX**:
+
+1. **Logo:**  
+   El logo circular con el texto "Only Parking" es un elemento gráfico que sirve como identificador visual de la aplicación. Su diseño simple y llamativo permite que los usuarios reconozcan rápidamente la aplicación y asocien el logo con la funcionalidad que ofrece.
+
+2. **Barra de búsqueda:**  
+   La barra alargada con el texto "Consultar" indica que la interfaz permite realizar búsquedas de manera eficiente. Este tipo de barra es común en aplicaciones que requieren la búsqueda de información específica, como la consulta de matrículas o registros de vehículos en este caso.
+
+3. **Botón "Consultar":**  
+   El botón "Consultar" aparece activo cuando se introduce un número de placa para realizar la búsqueda. Este tipo de interacción es esencial para la funcionalidad de la aplicación, ya que permite a los usuarios acceder rápidamente a la información relacionada con los vehículos registrados.
+
+4. **Diseño minimalista:**  
+   La interfaz presenta un diseño limpio y sencillo, con pocos elementos visuales. Este estilo minimalista es típico de las aplicaciones modernas, ya que no solo mejora la estética de la interfaz, sino que también facilita la navegación y mejora la experiencia del usuario al reducir el desorden visual.
+
+
 
