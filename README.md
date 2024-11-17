@@ -112,6 +112,15 @@ Una solicitud **POST** es un tipo de solicitud HTTP que se utiliza para enviar d
 
 En el caso de una API que proporciona modelos de IA como LMStudio, generalmente usaremos **POST** para enviar un **prompt** (un mensaje o una solicitud de tarea) al modelo y obtener una respuesta. El método **POST** es ideal para enviar grandes cantidades de datos, como **JSON**, que contienen el prompt, parámetros de configuración, o incluso archivos.
 
+## ¿Qué es un **Prompt**?
+
+Un **prompt** es simplemente una instrucción o pregunta que le damos a un modelo de inteligencia artificial (IA) para que realice una tarea o genere una respuesta. En el caso de modelos como los de LMStudio o GPT, un prompt es el texto o la información que se envía al modelo para obtener un resultado.
+
+Por ejemplo, si queremos que un modelo genere un texto sobre un tema específico, el prompt podría ser algo como:
+
+**"Escribe un ensayo sobre los efectos del cambio climático."**
+
+En resumen, el **prompt** es la entrada que el modelo usa para procesar y generar una salida basada en esa información.
 
 ---
 
