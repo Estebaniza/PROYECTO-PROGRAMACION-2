@@ -20,6 +20,7 @@
    - [6. Justificacion](#6-Justificacion)
    - [7. Requerimientos de la solucion al problema](#7-Requerimientos-de-la-solucion-al-problema)
    - [8 .Conclusion](#8-Conclusion)
+   - [ Fase 2 del Proyecto](# Fase 2 del Proyecto)
    - [9. Referencias](#9-Referencias)
 
 <!-- /code_chunk_output -->
@@ -66,6 +67,14 @@ Los cambios semestre a semestre dan muestra del incremento y de las dificulatade
 
 # 8. Conclusion
 - El Sistema de Monitoreo en Tiempo Real para la Gestión, Disponibilidad y Seguridad de Espacios de Estacionamiento en la universidad representa una solución integral que optimiza el uso del espacio de estacionamiento dentro de las instituciones educativas. Al proporcionar datos actualizados y precisos sobre la disponibilidad de los espacios, el sistema facilita una asignación más eficiente de los mismos, reduciendo el tiempo de búsqueda y mejorando la experiencia de estudiantes, profesores y personal. Además, al incorporar mecanismos de seguridad avanzados, el sistema contribuye a la protección de los vehículos y a la prevención de incidentes. En conjunto, este enfoque no solo mejora la gestión y accesibilidad del estacionamiento, sino que también refuerza la seguridad en el campus, promoviendo un entorno universitario más organizado y seguro.
+
+# Fase 2 del Proyecto.
+
+
+
+
+
+
 
 # 9. Referencias
 - Universidad Politécnica Salesiana de guayaquil https://dspace.ups.edu.ec/bitstream/123456789/2401/19/UPS-GT000130.pdf
