@@ -266,7 +266,8 @@ JavaFX es una biblioteca, también se le llama framework gráfico, de Java que p
 
 # IMAGEN 1
 
-![image](https://github.com/user-attachments/assets/c7bfa972-8289-4804-9942-d919595928f6)    ![image](https://github.com/user-attachments/assets/a55dd87b-57f3-4da1-9926-0f1acf2ecc9b)
+![image](https://github.com/user-attachments/assets/c7bfa972-8289-4804-9942-d919595928f6)      ![image](https://github.com/user-attachments/assets/9f885555-55ea-4699-9430-d9417adb49fd)
+
 
 
 ## Análisis de la Imagen:
