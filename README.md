@@ -79,23 +79,6 @@ Los cambios semestre a semestre dan muestra del incremento y de las dificulatade
 
 # Fase 2 del Proyecto.
 
-## Requisitos del Proyecto
-
-El proyecto tiene como objetivo gestionar un sistema de estacionamiento, permitiendo:
-
-- Registrar vehículos en espacios de estacionamiento.
-- Ver los vehículos que están actualmente estacionados.
-- Gestionar los datos en una base de datos MySQL.
-
-### El sistema permite manejar los siguientes campos para cada vehículo:
-
-- `id`: Identificador único (clave primaria).
-- `placa`: La placa del vehículo. (Ej. ABC123, BNG26G, XHL82D).
-- `tipo_vehiculo`: El tipo de vehículo (Ej. Carro, Moto, Bicicleta).
-- `estado`: Estado del vehículo (Ej. Estacionado, En Movimiento).
-- `color`: El color del vehículo. (Ej. Verde, Rojo y Gris).
-- `espacio`: Número del espacio de estacionamiento.
-
 # Codigo API OnlyParking
 
 Este proyecto permite consultar placas de vehículos (motos y carros) en parqueaderos, utilizando una API externa que genera placas aleatorias junto con colores para cada vehículo. A continuación se explican los dos componentes principales del proyecto.
@@ -241,6 +224,23 @@ public class api {
 }
 ```
 ![image](https://github.com/user-attachments/assets/c9c43267-5ec2-4e36-8f17-06096b0a4ab4)
+
+## Requisitos del Proyecto
+
+El proyecto tiene como objetivo gestionar un sistema de estacionamiento, permitiendo:
+
+- Registrar vehículos en espacios de estacionamiento.
+- Ver los vehículos que están actualmente estacionados.
+- Gestionar los datos en una base de datos MySQL.
+
+### El sistema permite manejar los siguientes campos para cada vehículo:
+
+- `id`: Identificador único (clave primaria).
+- `placa`: La placa del vehículo. (Ej. ABC123, BNG26G, XHL82D).
+- `tipo_vehiculo`: El tipo de vehículo (Ej. Carro, Moto, Bicicleta).
+- `estado`: Estado del vehículo (Ej. Estacionado, En Movimiento).
+- `color`: El color del vehículo. (Ej. Verde, Rojo y Gris).
+- `espacio`: Número del espacio de estacionamiento.
 
 ## Creación de Base de Datos Only_Parking en Visual Studio Code.
 
