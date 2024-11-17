@@ -22,6 +22,7 @@
    - [8 .Conclusion](#8-Conclusion)
    - [9. Referencias](#9-Referencias)
    - [Fase 2 del proyecto](#Fase-2-del-proyecto)
+   - [1. Interfaz](#1-Interfaz)
 
 <!-- /code_chunk_output -->
 
@@ -257,5 +258,8 @@ En este proyecto, hemos creado un sistema de monitoreo de estacionamiento llamad
 Cada clase tiene una responsabilidad específica en el sistema.
 
 ![image](https://github.com/user-attachments/assets/60b510cd-8fd3-42a9-b151-33f4f2cf9b23)
+
+# Interfaz (JAVAFX).
+JavaFX es una biblioteca, también se le llama framework gráfico, de Java que permite desarrollar aplicaciones de interfaz gráfica de usuario (GUI) modernas y visualmente atractivas. Se utiliza para crear aplicaciones de escritorio y proporciona un conjunto de herramientas para construir interfaces visuales interactivas. JavaFX es parte de Java desde JDK 8 y es la alternativa recomendada a la biblioteca Swing.
 ![image](https://github.com/user-attachments/assets/648cecec-e84c-481f-b9f8-f9a78151cc2c)
 
