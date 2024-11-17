@@ -145,4 +145,5 @@ public class almacenar {
     }
 }```
 
-![image](https://github.com/user-attachments/assets/ecd7677d-90d3-4173-826f-758b677d8a64)
+![image](https://github.com/user-attachments/assets/12882230-5c5d-4629-91c6-ce9f0ebd9f19)
+
