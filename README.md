@@ -20,8 +20,8 @@
    - [6. Justificacion](#6-Justificacion)
    - [7. Requerimientos de la solucion al problema](#7-Requerimientos-de-la-solucion-al-problema)
    - [8 .Conclusion](#8-Conclusion)
-   - [9 .Fase 2 del proyecto](#9-Fase-2-del-proyecto)
-   - [10. Referencias](#10-Referencias)
+   - [Fase 2 del proyecto](#Fase-2-del-proyecto)
+   - [9. Referencias](#9-Referencias)
 
 <!-- /code_chunk_output -->
 
@@ -86,6 +86,8 @@ El sistema permite manejar los siguientes campos para cada vehículo:
 - `estado`: Estado del vehículo (Ej. Estacionado, En Movimiento).
 - `color`: El color del vehículo.
 - `espacio`: Número del espacio de estacionamiento.
+
+
 
 
 # 9. Referencias
