@@ -257,4 +257,5 @@ En este proyecto, hemos creado un sistema de monitoreo de estacionamiento llamad
 Cada clase tiene una responsabilidad específica en el sistema.
 
 ![image](https://github.com/user-attachments/assets/60b510cd-8fd3-42a9-b151-33f4f2cf9b23)
+![image](https://github.com/user-attachments/assets/648cecec-e84c-481f-b9f8-f9a78151cc2c)
 
