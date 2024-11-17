@@ -87,7 +87,6 @@ El sistema permite manejar los siguientes campos para cada vehículo:
 - `color`: El color del vehículo.
 - `espacio`: Número del espacio de estacionamiento.
 
-![image](https://github.com/user-attachments/assets/01c23c08-8813-4c1f-b472-cd66791ca225)
 
 
 
