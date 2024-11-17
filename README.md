@@ -87,13 +87,13 @@ El proyecto tiene como objetivo gestionar un sistema de estacionamiento, permiti
 - Ver los vehículos que están actualmente estacionados.
 - Gestionar los datos en una base de datos MySQL.
 
-El sistema permite manejar los siguientes campos para cada vehículo:
+### El sistema permite manejar los siguientes campos para cada vehículo:
 
 - `id`: Identificador único (clave primaria).
-- `placa`: La placa del vehículo.
+- `placa`: La placa del vehículo. (Ej. ABC123, BNG26G, XHL82D).
 - `tipo_vehiculo`: El tipo de vehículo (Ej. Carro, Moto, Bicicleta).
 - `estado`: Estado del vehículo (Ej. Estacionado, En Movimiento).
-- `color`: El color del vehículo.
+- `color`: El color del vehículo. (Ej. Verde, Rojo y Gris)
 - `espacio`: Número del espacio de estacionamiento.
 
 # Codigo API OnlyParking
