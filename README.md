@@ -67,6 +67,9 @@
 - Documento de otro proyecto que tenemos en la universidad y se relaciona el tema.
 
 ![Java](https://img.shields.io/badge/Java-100%25-ff5733?style=for-the-badge)  ![github](https://img.shields.io/badge/github-100%25-ff5733?style=for-the-badge) ![markdown](https://img.shields.io/badge/markdown-100%25-ff5733?style=for-the-badge)
+<img src="https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white"> 
+
+
 
 # Fase 2 del Proyecto.
 
