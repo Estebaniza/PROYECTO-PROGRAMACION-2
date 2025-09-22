@@ -57,7 +57,7 @@ El sistema debe generar un ticket con los datos del vehículo, zona asignada y t
 
   [![Pagina](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/201080c7-1bff-4844-bf5e-34e2681fe169" />)
   
-   [![Ticket](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7cc52f92-df7b-4a4a-be35-ebb9c59212e1" />)
+   [![Ticket](<img width="612" height="893" alt="image" src="https://github.com/user-attachments/assets/90fee948-9bf2-4a7a-8947-ede32e002b0c" />)
 
 # 5. Pruebas del Prototipo
 
