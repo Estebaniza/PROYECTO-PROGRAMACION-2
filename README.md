@@ -15,14 +15,11 @@
    - [1. Introduccion](#1-Introduccion)
    - [2. Objetivo Principal](#2-Objetivo-Principal)
    - [3. Objetivos Especificos](#3-Objetivos-Especificos)
-   - [4. Pregunta Problematica](#4-Pregunta-Problematica)
-   - [5. Planteamiento](#5-Planteamiento)
-   - [6. Justificacion](#6-Justificacion)
-   - [7. Requerimientos de la solucion al problema](#7-Requerimientos-de-la-solucion-al-problema)
-   - [8 .Conclusion](#8-Conclusion)
-   - [9. Referencias](#9-Referencias)
-   - [Fase 2 del proyecto](#Fase-2-del-proyecto)
-   - [1. Interfaz](#1-Interfaz)
+   - [4. Diseño de Pagina Web](#4-Diseño-de-pagina-Web)
+   - [5. Pruebas del Prototipo](#5-Pruebas-del-Prototipo)
+   - [6. Interfaz](#6-Interfaz)
+   - [7. Referencias](#7-Referencias)
+   - [8. Documentacion Final](#8-Documentacion-Final)
 
 <!-- /code_chunk_output -->
 
@@ -45,21 +42,7 @@
 # 4. Pregunta Problematica
 - ¿Cómo influye el software de Only Parking en la reducción del tiempo que los usuarios dedican a buscar y esperar por un lugar de estacionamiento disponible, y qué medidas de seguridad se implementan para proteger tanto la información personal de los usuarios como la seguridad de los vehículos estacionados?
 
-# 5. Planteamiento
-- la universidad enfrenta un problema evidente en la gestión del acceso y salida de vehículos, especialmente en la jornada nocturna. Aunque hay vigilantes, el proceso manual de registro no es eficiente, lo que dificulta el control de los vehículos que parquean a diario. Además, la falta de regulación del cupo máximo de estacionamiento genera deficiencias en la seguridad y permite robos dentro de las instalaciones.
-
-# 6. Justificación
-- Implementar un sistema de escaneo de documentos para controlar el acceso al estacionamiento universitario es clave para mejorar la seguridad y eficiencia en la gestión de espacios. Este sistema verifica y registra cada entrada y salida, almacenando la información en una base de datos segura para facilitar la vigilancia y el monitoreo. Además, el conteo en tiempo real de los espacios disponibles optimiza la gestión del estacionamiento, reduciendo el tiempo de búsqueda de lugares y mejorando el flujo de tráfico. Así, se garantiza un acceso más seguro y eficiente para estudiantes, profesores y personal, mejorando la administración de los recursos y la seguridad en el campus.
-
-# 7. Requerimientos de la solucion al problema
-- el sistema debe incluir un módulo de escaneo de documentos de identidad al ingreso y salida de vehículos, motos, bicicletas y patinetas eléctricas. Este módulo verificará los documentos en tiempo real contra una base de datos centralizada, permitiendo el acceso solo a usuarios autorizados. Además, se puede usar un dispositivo de lectura de códigos QR en las barreras de entrada y salida para un acceso rápido y seguro, vinculado a la información del usuario en la base de datos.
- 
-- El sistema debe incluir sensores de ocupación que, junto con el escaneo de QR, proporcionen un conteo en tiempo real de los espacios disponibles en el estacionamiento. Estos sensores enviarán datos a una base de datos segura, que almacenará información sobre la disponibilidad y registros de acceso. Los usuarios podrán consultar la disponibilidad a través de una app, portal web o pantalla en tiempo real. La base de datos será protegida con cifrado, y el manejo de QR optimizará la eficiencia y seguridad del estacionamiento en el campus.
-
-# 8. Conclusion
-- El Sistema de Monitoreo en Tiempo Real optimiza el uso del estacionamiento en la universidad, proporcionando datos precisos sobre la disponibilidad de espacios, lo que mejora la asignación y reduce los tiempos de búsqueda. Además, al incorporar medidas de seguridad avanzadas, protege los vehículos y previene incidentes, creando un entorno universitario más organizado y seguro.
-
-# 9. Referencias
+# 7. Referencias
 - Universidad Politécnica Salesiana de guayaquil https://dspace.ups.edu.ec/bitstream/123456789/2401/19/UPS-GT000130.pdf
 - Thanks to https://www.shutterstock.com/es/images we include some pictures of the theme.
 - Markdown Extras by https://pandao.github.io/editor.md/en.html.
