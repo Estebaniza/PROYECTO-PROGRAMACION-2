@@ -27,13 +27,18 @@
 
 El proyecto tiene como objetivo gestionar un sistema de estacionamiento, permitiendo:
 
-- Registrar vehículos en espacios de estacionamiento.
-- Ver los vehículos que están actualmente estacionados.
-- Gestionar los datos en una base de datos MySQL.
+1. Registro de vehículos:
+El sistema debe permitir que los usuarios ingresen los datos de su vehículo (placa, tipo y propietario) para generar un ticket de ingreso.
+
+2. Gestión de disponibilidad:
+El sistema debe mostrar en tiempo real la cantidad de espacios ocupados y disponibles para cada tipo de vehículo (carros, motos, bicicletas).
+
+3. Generación de tickets digitales:
+El sistema debe generar un ticket con los datos del vehículo, zona asignada y tarifa, incluyendo un código QR que podrá usarse para la validación a la salida.
 
 ---
 # 1. Introduccion
-- Actualmente, la universidad carece de un sistema eficiente para gestionar el acceso de vehículos, lo que aumenta los tiempos de espera y el riesgo de robos. La solución propuesta es integrar una tecnología de escaneo de documentos que identifique rápidamente a los conductores al llegar, garantizando el acceso solo a personas autorizadas. La información se almacena en una base de datos que registra los detalles de ingreso, tipo de vehículo y tiempo de permanencia, facilitando el monitoreo en tiempo real. Este sistema optimiza procesos, mejora la seguridad, reduce incidentes y permite que el personal de seguridad se concentre en tareas más críticas, asegurando mayor protección y eficiencia en el campus.
+- El proyecto Only Parking busca ofrecer una solución innovadora para la gestión de parqueaderos universitarios. A través de esta plataforma, los usuarios podrán registrar su vehículo, consultar la disponibilidad de espacios, revisar las tarifas y generar un ticket digital con código QR. El objetivo principal es optimizar el uso de los espacios de estacionamiento, reducir tiempos de espera y brindar una experiencia más ágil y segura dentro de la comunidad universitaria.
 
 # 2. Objetivo Principal
 - Aumentar la seguridad del parqueadero de motos, carros, bicicletas, patinetas eléctricas, entre otros, a la universidad mediante un programa que escanee el documento de identidad del usuario al ingreso y salida, incluyendo el conteo en tiempo real de los espacios disponibles en el estacionamiento.
