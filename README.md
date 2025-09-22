@@ -23,6 +23,14 @@
 
 <!-- /code_chunk_output -->
 
+## Requisitos del Proyecto
+
+El proyecto tiene como objetivo gestionar un sistema de estacionamiento, permitiendo:
+
+- Registrar vehículos en espacios de estacionamiento.
+- Ver los vehículos que están actualmente estacionados.
+- Gestionar los datos en una base de datos MySQL.
+
 ---
 # 1. Introduccion
 - Actualmente, la universidad carece de un sistema eficiente para gestionar el acceso de vehículos, lo que aumenta los tiempos de espera y el riesgo de robos. La solución propuesta es integrar una tecnología de escaneo de documentos que identifique rápidamente a los conductores al llegar, garantizando el acceso solo a personas autorizadas. La información se almacena en una base de datos que registra los detalles de ingreso, tipo de vehículo y tiempo de permanencia, facilitando el monitoreo en tiempo real. Este sistema optimiza procesos, mejora la seguridad, reduce incidentes y permite que el personal de seguridad se concentre en tareas más críticas, asegurando mayor protección y eficiencia en el campus.
@@ -39,17 +47,13 @@
 
 [![PARQUEDEROS](https://st4.depositphotos.com/23611030/29463/v/450/depositphotos_294632308-stock-illustration-collection-parking-thin-line-icons.jpg "PARQUEDEROS")](https://st4.depositphotos.com/23611030/29463/v/450/depositphotos_294632308-stock-illustration-collection-parking-thin-line-icons.jpg "PARQUEDEROS")
 
-# 4. Pregunta Problematica
+# 4. Diseño de Pagina Web
 - ¿Cómo influye el software de Only Parking en la reducción del tiempo que los usuarios dedican a buscar y esperar por un lugar de estacionamiento disponible, y qué medidas de seguridad se implementan para proteger tanto la información personal de los usuarios como la seguridad de los vehículos estacionados?
 
+# 5. Pruebas del Prototipo
 
-## Requisitos del Proyecto
 
-El proyecto tiene como objetivo gestionar un sistema de estacionamiento, permitiendo:
 
-- Registrar vehículos en espacios de estacionamiento.
-- Ver los vehículos que están actualmente estacionados.
-- Gestionar los datos en una base de datos MySQL.
 
 
 # 6. Interfaz
@@ -107,6 +111,6 @@ Podemos identificar los siguientes elementos clave de la interfaz de usuario, qu
 ![Java](https://img.shields.io/badge/Java-100%25-ff5733?style=for-the-badge)  ![github](https://img.shields.io/badge/github-100%25-ff5733?style=for-the-badge) ![markdown](https://img.shields.io/badge/markdown-100%25-ff5733?style=for-the-badge)
 <img src="https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white"> 
 
-
+# 8. Documentacion Final
 
 
