@@ -42,16 +42,6 @@
 # 4. Pregunta Problematica
 - ¿Cómo influye el software de Only Parking en la reducción del tiempo que los usuarios dedican a buscar y esperar por un lugar de estacionamiento disponible, y qué medidas de seguridad se implementan para proteger tanto la información personal de los usuarios como la seguridad de los vehículos estacionados?
 
-# 7. Referencias
-- Universidad Politécnica Salesiana de guayaquil https://dspace.ups.edu.ec/bitstream/123456789/2401/19/UPS-GT000130.pdf
-- Thanks to https://www.shutterstock.com/es/images we include some pictures of the theme.
-- Markdown Extras by https://pandao.github.io/editor.md/en.html.
-- Thanks to [ChatGPT by OpenAI](https://www.openai.com/chatgpt) for assistance with writing and content optimization.
-- Documento de otro proyecto que tenemos en la universidad y se relaciona el tema.
-
-![Java](https://img.shields.io/badge/Java-100%25-ff5733?style=for-the-badge)  ![github](https://img.shields.io/badge/github-100%25-ff5733?style=for-the-badge) ![markdown](https://img.shields.io/badge/markdown-100%25-ff5733?style=for-the-badge)
-<img src="https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white"> 
-
 
 ## Requisitos del Proyecto
 
@@ -61,34 +51,8 @@ El proyecto tiene como objetivo gestionar un sistema de estacionamiento, permiti
 - Ver los vehículos que están actualmente estacionados.
 - Gestionar los datos en una base de datos MySQL.
 
-### El sistema permite manejar los siguientes campos para cada vehículo:
 
-- `id`: Identificador único (clave primaria).
-- `placa`: La placa del vehículo. (Ej. ABC123, BNG26G, XHL82D).
-- `tipo_vehiculo`: El tipo de vehículo (Ej. Carro, Moto, Bicicleta).
-- `estado`: Estado del vehículo (Ej. Estacionado, En Movimiento).
-- `color`: El color del vehículo. (Ej. Verde, Rojo y Gris).
-- `espacio`: Número del espacio de estacionamiento.
-
-## Creación de Base de Datos Only_Parking en Visual Studio Code.
-
-En este proyecto, hemos creado un sistema de monitoreo de estacionamiento llamado **OnlyParking** utilizando **Java** y **MySQL**. Primero, creamos una base de datos llamada **only_parking** y dentro de ella una tabla **parking_spaces**, que almacena la información de los vehículos estacionados, como el `id`, `placa`, `tipo_vehiculo`, `estado`, `color` y `espacio` de estacionamiento. Usamos Java para desarrollar varias clases que gestionan la interacción con la base de datos: **CreateTable** para crear la tabla, **DatabaseConnection** para establecer la conexión con MySQL, **InsertValue** para insertar nuevos vehículos, **SelectTable** para mostrar los vehículos actuales, y **Main** para ofrecer un menú interactivo al usuario. Cada clase tiene una función específica que facilita la inserción y consulta de los datos, mientras que la clase **ParkingSpace** sirve como un modelo de datos para representar cada vehículo. La base de datos se conecta a través de **JDBC**, y la aplicación maneja errores y asegura que la base de datos se mantenga consistente.
-
-### Clases de la Base de Datos.
-- `CreateTable.java`
-- `DatabaseConnection.java`
-- `InsertValue.java`
-- `Main.java`
-- `ParkingSpace.java`
-- `SelectTable.java`
-
-Cada clase tiene una responsabilidad específica en el sistema.
-
-![image](https://github.com/user-attachments/assets/60b510cd-8fd3-42a9-b151-33f4f2cf9b23)
-
-![image](https://github.com/user-attachments/assets/648cecec-e84c-481f-b9f8-f9a78151cc2c)
-
-# Interfaz (JAVAFX).
+# 6. Interfaz
 JavaFX es una biblioteca, también se le llama framework gráfico, de Java que permite desarrollar aplicaciones de interfaz gráfica de usuario (GUI) modernas y visualmente atractivas. Se utiliza para crear aplicaciones de escritorio y proporciona un conjunto de herramientas para construir interfaces visuales interactivas. JavaFX es parte de Java desde JDK 8 y es la alternativa recomendada a la biblioteca Swing.
 
 # IMAGEN 1
@@ -132,6 +96,17 @@ Podemos identificar los siguientes elementos clave de la interfaz de usuario, qu
 
 4. **Diseño minimalista:**  
    La interfaz presenta un diseño limpio y sencillo, con pocos elementos visuales. Este estilo minimalista es típico de las aplicaciones modernas, ya que no solo mejora la estética de la interfaz, sino que también facilita la navegación y mejora la experiencia del usuario al reducir el desorden visual.
+
+# 7. Referencias
+- Universidad Politécnica Salesiana de guayaquil https://dspace.ups.edu.ec/bitstream/123456789/2401/19/UPS-GT000130.pdf
+- Thanks to https://www.shutterstock.com/es/images we include some pictures of the theme.
+- Markdown Extras by https://pandao.github.io/editor.md/en.html.
+- Thanks to [ChatGPT by OpenAI](https://www.openai.com/chatgpt) for assistance with writing and content optimization.
+- Documento de otro proyecto que tenemos en la universidad y se relaciona el tema.
+
+![Java](https://img.shields.io/badge/Java-100%25-ff5733?style=for-the-badge)  ![github](https://img.shields.io/badge/github-100%25-ff5733?style=for-the-badge) ![markdown](https://img.shields.io/badge/markdown-100%25-ff5733?style=for-the-badge)
+<img src="https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white"> 
+
 
 
 
