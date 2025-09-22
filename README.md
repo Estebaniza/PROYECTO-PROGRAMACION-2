@@ -53,7 +53,11 @@ El sistema debe generar un ticket con los datos del vehículo, zona asignada y t
 [![PARQUEDEROS](https://st4.depositphotos.com/23611030/29463/v/450/depositphotos_294632308-stock-illustration-collection-parking-thin-line-icons.jpg "PARQUEDEROS")](https://st4.depositphotos.com/23611030/29463/v/450/depositphotos_294632308-stock-illustration-collection-parking-thin-line-icons.jpg "PARQUEDEROS")
 
 # 4. Diseño de Pagina Web
-- ¿Cómo influye el software de Only Parking en la reducción del tiempo que los usuarios dedican a buscar y esperar por un lugar de estacionamiento disponible, y qué medidas de seguridad se implementan para proteger tanto la información personal de los usuarios como la seguridad de los vehículos estacionados?
+- El diseño de la página está enfocado en ofrecer una interfaz moderna, intuitiva y adaptable.
+
+  [![Pagina](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/201080c7-1bff-4844-bf5e-34e2681fe169" />)
+  
+   [![Ticket](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7cc52f92-df7b-4a4a-be35-ebb9c59212e1" />)
 
 # 5. Pruebas del Prototipo
 
