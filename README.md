@@ -56,7 +56,7 @@ El sistema debe generar un ticket con los datos del vehículo, zona asignada y t
 - El diseño de la página está enfocado en ofrecer una interfaz moderna, intuitiva y adaptable.
 
 ![Tarifas](https://github.com/Estebaniza/PROYECTO-PROGRAMACION-2/blob/main/Tarifas.png?raw=true) 
-![paginaW](https://github.com/Estebaniza/PROYECTO-PROGRAMACION-2/blob/main/paginaW.png?raw=true) 
+![PaginaW](https://github.com/Estebaniza/PROYECTO-PROGRAMACION-2/blob/main/PaginaW.png?raw=true) 
 
 
 # 5. Pruebas del Prototipo
