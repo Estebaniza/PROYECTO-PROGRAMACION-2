@@ -19,7 +19,6 @@
    - [5. Pruebas del Prototipo](#5-Pruebas-del-Prototipo)
    - [6. Interfaz](#6-Interfaz)
    - [7. Referencias](#7-Referencias)
-   - [8. Documentacion Final](#8-Documentacion-Final)
 
 <!-- /code_chunk_output -->
 
@@ -63,6 +62,8 @@ El sistema debe generar un ticket con los datos del vehículo, zona asignada y t
 
 # 5. Pruebas del Prototipo
 
+![Tiquete](https://github.com/Estebaniza/PROYECTO-PROGRAMACION-2/blob/main/Tiquete.png?raw=true)                ![Tiquete2](https://github.com/Estebaniza/PROYECTO-PROGRAMACION-2/blob/main/Tiquete2.png?raw=true) 
+
 
 
 
@@ -76,49 +77,16 @@ La interfaz de Only Parking es una aplicación web que permite gestionar el ingr
 
 
 
-## Análisis de la Imagen:
 
-Aunque la interfaz no se muestra en su totalidad, es posible inferir varios elementos clave y sus funcionalidades a partir de la imagen proporcionada:
-
-1. **Placa de vehículo:**  
-   La imagen principal muestra la matrícula "COZ 92E" acompañada de la palabra "COLOMBIA", lo que sugiere que la aplicación está orientada al registro y monitoreo de vehículos.
-
-2. **Información temporal:**  
-   Se indica la hora exacta de ingreso del vehículo (13:14:48.866660300) y se señala que la hora de salida aún está pendiente. Esto revela que el sistema realiza un seguimiento preciso de la duración de la estancia de cada vehículo, permitiendo gestionar el tiempo de ocupación del espacio de forma eficiente.
-
-3. **Placa registrada:**  
-   La visualización de la matrícula "GIT70G" como vehículo registrado confirma que la aplicación permite el registro y seguimiento de vehículos de forma detallada, lo que facilita la gestión de entradas y salidas dentro del sistema.
-
-4. **Botón "Regresar":**  
-   La presencia de este botón sugiere que la aplicación tiene una interfaz estructurada en múltiples pantallas, lo que permite a los usuarios navegar entre diferentes secciones. Al pulsar el botón, el usuario regresaría a una pantalla previa, facilitando la navegación y mejorando la experiencia de uso.
-
-
-## Análisis de la Imagen:
-
-Podemos identificar los siguientes elementos clave de la interfaz de usuario, que parece estar desarrollada con **JavaFX**:
-
-1. **Logo:**  
-   El logo circular con el texto "Only Parking" es un elemento gráfico que sirve como identificador visual de la aplicación. Su diseño simple y llamativo permite que los usuarios reconozcan rápidamente la aplicación y asocien el logo con la funcionalidad que ofrece.
-
-2. **Barra de búsqueda:**  
-   La barra alargada con el texto "Consultar" indica que la interfaz permite realizar búsquedas de manera eficiente. Este tipo de barra es común en aplicaciones que requieren la búsqueda de información específica, como la consulta de matrículas o registros de vehículos en este caso.
-
-3. **Botón "Consultar":**  
-   El botón "Consultar" aparece activo cuando se introduce un número de placa para realizar la búsqueda. Este tipo de interacción es esencial para la funcionalidad de la aplicación, ya que permite a los usuarios acceder rápidamente a la información relacionada con los vehículos registrados.
-
-4. **Diseño minimalista:**  
-   La interfaz presenta un diseño limpio y sencillo, con pocos elementos visuales. Este estilo minimalista es típico de las aplicaciones modernas, ya que no solo mejora la estética de la interfaz, sino que también facilita la navegación y mejora la experiencia del usuario al reducir el desorden visual.
 
 # 7. Referencias
 - Universidad Politécnica Salesiana de guayaquil https://dspace.ups.edu.ec/bitstream/123456789/2401/19/UPS-GT000130.pdf
 - Thanks to https://www.shutterstock.com/es/images we include some pictures of the theme.
 - Markdown Extras by https://pandao.github.io/editor.md/en.html.
 - Thanks to [ChatGPT by OpenAI](https://www.openai.com/chatgpt) for assistance with writing and content optimization.
+- Notepad++ y Xampp
+- PhpMyAdmin
 - Documento de otro proyecto que tenemos en la universidad y se relaciona el tema.
 
 ![Java](https://img.shields.io/badge/Java-100%25-ff5733?style=for-the-badge)  ![github](https://img.shields.io/badge/github-100%25-ff5733?style=for-the-badge) ![markdown](https://img.shields.io/badge/markdown-100%25-ff5733?style=for-the-badge)
 <img src="https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white"> 
-
-# 8. Documentacion Final
-
-
