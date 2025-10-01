@@ -55,9 +55,8 @@ El sistema debe generar un ticket con los datos del vehículo, zona asignada y t
 # 4. Diseño de Pagina Web
 - El diseño de la página está enfocado en ofrecer una interfaz moderna, intuitiva y adaptable.
 
-  [![Pagina](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/201080c7-1bff-4844-bf5e-34e2681fe169" />)
-  
-   [![Ticket](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/79d685eb-1c22-4805-b5cc-a1424b4ea192" />)
+![image](https://github.com/esteb/Programacion2/blob/main/Tarifas.png?raw=true)
+https://github.com/usuario/repositorio/blob/main/images/Tarifas.png?raw=true
 
 # 5. Pruebas del Prototipo
 
