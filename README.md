@@ -62,10 +62,11 @@ El sistema debe generar un ticket con los datos del vehículo, zona asignada y t
 
 # 5. Pruebas del Prototipo
 
-![Tiquete](https://github.com/Estebaniza/PROYECTO-PROGRAMACION-2/blob/main/Tiquete.png?raw=true)                ![Tiquete2](https://github.com/Estebaniza/PROYECTO-PROGRAMACION-2/blob/main/Tiquete2.png?raw=true) 
+![Tiquete](https://github.com/Estebaniza/PROYECTO-PROGRAMACION-2/blob/main/Tiquete.png?raw=true)  
 
+![Tiquete2](https://github.com/Estebaniza/PROYECTO-PROGRAMACION-2/blob/main/Tiquete2.png?raw=true)
 
-
+![Basedatos](https://github.com/Estebaniza/PROYECTO-PROGRAMACION-2/blob/main/Basedatos.png?raw=true)
 
 
 # 6. Interfaz
