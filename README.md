@@ -55,7 +55,8 @@ El sistema debe generar un ticket con los datos del vehículo, zona asignada y t
 # 4. Diseño de Pagina Web
 - El diseño de la página está enfocado en ofrecer una interfaz moderna, intuitiva y adaptable.
 
-![Tarifas](https://github.com/Estebaniza/PROYECTO-PROGRAMACION-2/blob/main/Tarifas.png?raw=true)
+![Tarifas](https://github.com/Estebaniza/PROYECTO-PROGRAMACION-2/blob/main/Tarifas.png?raw=true) 
+![paginaW](https://github.com/Estebaniza/PROYECTO-PROGRAMACION-2/blob/main/paginaW.png?raw=true) 
 
 
 # 5. Pruebas del Prototipo
@@ -89,9 +90,6 @@ Aunque la interfaz no se muestra en su totalidad, es posible inferir varios elem
 4. **Botón "Regresar":**  
    La presencia de este botón sugiere que la aplicación tiene una interfaz estructurada en múltiples pantallas, lo que permite a los usuarios navegar entre diferentes secciones. Al pulsar el botón, el usuario regresaría a una pantalla previa, facilitando la navegación y mejorando la experiencia de uso.
 
-# IMAGEN 2
-
-![image](https://github.com/CCESPINOSA/Programacion2/blob/main/image.png?raw=true)                      ![image](https://github.com/Estebaniza/PROYECTO-PROGRAMACION-2/blob/main/imagen2.png?raw=true)
 
 ## Análisis de la Imagen:
 
