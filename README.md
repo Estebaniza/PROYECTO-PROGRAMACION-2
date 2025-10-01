@@ -68,11 +68,11 @@ El sistema debe generar un ticket con los datos del vehículo, zona asignada y t
 
 
 # 6. Interfaz
-JavaFX es una biblioteca, también se le llama framework gráfico, de Java que permite desarrollar aplicaciones de interfaz gráfica de usuario (GUI) modernas y visualmente atractivas. Se utiliza para crear aplicaciones de escritorio y proporciona un conjunto de herramientas para construir interfaces visuales interactivas. JavaFX es parte de Java desde JDK 8 y es la alternativa recomendada a la biblioteca Swing.
+La interfaz de Only Parking es una aplicación web que permite gestionar el ingreso y salida de vehículos en un parqueadero. Presenta botones para elegir la acción, un formulario para validar la placa y genera un ticket digital con número, fecha, hora y código QR en caso de ingreso. Además, ofrece opciones de impresión y mensajes de confirmación o error, todo en una interfaz clara y sencilla.
 
 # IMAGEN 1
 
-![image](https://github.com/Estebaniza/PROYECTO-PROGRAMACION-2/blob/main/image.png?raw=true)
+![Interfaz](https://github.com/Estebaniza/PROYECTO-PROGRAMACION-2/blob/main/Interfaz.png?raw=true)
 
 
 
